@@ -1,2 +1,2 @@
 # API-to-MYSQL
-Scrape data of contributors from github API and store it in MYSQL database
+Scraped data of contributors from github API and stored in MYSQL database
